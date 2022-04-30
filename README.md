@@ -1,1 +1,1 @@
-# devops22
+learning & practies devops
