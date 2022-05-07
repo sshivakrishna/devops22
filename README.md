@@ -1,1 +1,0 @@
-learning & practies devops
